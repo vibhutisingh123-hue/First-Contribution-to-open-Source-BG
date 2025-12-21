@@ -13,3 +13,16 @@ git status
 git add file name
 git commit -m "dsr"
 git push -u origin bransh name
+Hi, I’m Astha. I’m currently learning Git and GitHub.
+
+
+hellloooo sirr............⭐⭐............•••😊😊😊😊😀😀😀
+Hello Sir, 
+I am sonam
+Hi everyone, this is geet asrani here. This will be my first contribution to this repo new again second times.
+
+
+
+
+Hello,
+Anu jain this side!
